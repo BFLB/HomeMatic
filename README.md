@@ -8,3 +8,4 @@ Feedback, testing and contribution welcome!
 
 Implemented methods:
 - devicelist
+- status
