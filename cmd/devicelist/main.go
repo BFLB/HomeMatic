@@ -38,7 +38,6 @@ func main() {
 	dl, err := api.DeviceList()
 	if err != nil {
 		log.Fatal("DeviceList: ", err)
-		fmt.Printf("Pups")
 	}
 
 	// initialize tabwriter
