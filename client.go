@@ -14,6 +14,8 @@ import (
 	"io/ioutil"
 )
 
+const VERSION = "v0.1"
+
 type XmlApi struct {
 	client    *http.Client
 	baseURL   string
